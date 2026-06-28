@@ -1,28 +1,10 @@
-# PowerGrid Utility Intelligence
+# Capstone Project : PowerGrid Utility Intelligence: Predicting Grid Failures Before They Happen
 
-## Capstone Project
+## Team Members : Domain 7
 
-### Team
-- Rajini
-
-## Project Description
-This project predicts electrical grid failures before they happen using data analysis and machine learning techniques.
-
-## Repository Contents
-
-- PowerGrid_Capstone_Analysis.ipynb
-- PowerGrid_EDA_Report.docx
-- PowerGrid_Presubmission_revised.docx
-
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
-
-## Objective
-
-The objective of this project is to analyze power grid data, identify patterns, and build predictive models to reduce grid failures.
+| Team Member | GitHub Repo                    | Presubmission Document         |
+|-------------|--------------------------------|--------------------------------|
+| Vaibhav     | [Repo](https://github.com/vaibhavdave/assignments) | [Document](https://github.com/vaibhavdave/assignments/blob/main/capstone_domain7/PowerGrid_PreSubmission_Final_v2_28_06_2026.docx) |
+| Ravin       | [Repo](https://github.com/shravin/aiml) | [Document](https://github.com/shravin/aiml/blob/main/capstone/PowerGrid_PreSubmission_Final_v2_28_06_2026.docx) |
+| Ashok       | [Repo](https://github.com/ashok2606/iitm-capstone-powergrid-intelligence) | [Document](https://github.com/ashok2606/iitm-capstone-powergrid-intelligence/blob/main/deliverables/pre_submission/PowerGrid_PreSubmission_Final_v2_28_06_2026.docx) |
+| Rajini      | [Repo](https://github.com/Rajanichodisetti123-ux/PowerGrid-Utility-Intelligence) | [Document](https://github.com/Rajanichodisetti123-ux/PowerGrid-Utility-Intelligence/blob/main/PowerGrid_PreSubmission_Final_v2_28_06_2026.docx) |
